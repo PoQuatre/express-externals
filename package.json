@@ -1,0 +1,12 @@
+{
+  "name": "externals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PoQuatre/express-externals.git",
+  "author": "PoQuatre <leflem.mateo2002@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
